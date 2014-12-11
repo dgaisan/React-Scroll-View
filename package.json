@@ -1,0 +1,32 @@
+{
+  "name": "React-Scroll-View",
+  "version": "0.0.0",
+  "description": "Scroll View App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgaisan/React-Scroll-View.git"
+  },
+  "keywords": [
+    "scrollview",
+    "react"
+  ],
+  "dependencies": {
+    "flux": "^2.0.1",
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.4.2",
+    "object-assign": "^2.0.0",
+    "react": "^0.12.1",
+    "reactify": "^0.17.1"
+  },
+  "author": "Dmitri Gaisan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgaisan/React-Scroll-View/issues"
+  },
+  "homepage": "https://github.com/dgaisan/React-Scroll-View"
+}
